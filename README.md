@@ -1,7 +1,7 @@
 ## Gabriel Sinhorini
 
 - Estudando Python/SQL/C#
-- Estudando Desenvolvimento Web(HTML/CSS/JS/PHP)
+- Estudando Desenvolvimento Web (HTML/CSS/JS/PHP)
 
 <div align="center">
   <a href="https://github.com/GabrielSinhorini">
